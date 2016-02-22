@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Extension Log Prevention",
-  "description": "Prevents the logging of your enabled Chrome Extensions inside the javascript console automatically.",
+  "description": "Extension to make other chrome/chromium extensions not log their resource requests to your JS console.",
   "version": "1.0",
   "browser_action": {
     "default_popup": "popup.html"
